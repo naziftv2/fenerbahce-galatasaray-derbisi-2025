@@ -1,3 +1,19 @@
+ <style>
+        body {
+            background-color: #333; /* Koyu gri arka plan */
+            color: white; /* Beyaz yazı rengi */
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            color: #FFD700; /* Altın sarısı başlık */
+        }
+        a {
+            color: #FF6347; /* Turuncu linkler */
+        }
+    </style>
+    
+
 # 🔴⚪ Fenerbahçe vs Galatasaray Derbisi Canlı İzle | 1 Aralık 2025
 
 **[#FenerbahçeGalatasaray](https://twitter.com/hashtag/FenerbahçeGalatasaray) | [#Derbi](https://twitter.com/hashtag/Derbi) | [#SüperLig](https://twitter.com/hashtag/SüperLig)**
