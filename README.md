@@ -45,7 +45,7 @@ Aşağıdaki platformlardan **Fenerbahçe vs Galatasaray** derbisini **canlı ve
 |---------------------|-------------------------|------------------------------|
 | **SelçukSports**    | [İzle](http://www.ligtvizlesene56.one) | HD kalite, ücretsiz           |
 | **TaraftarIUM24**   | [İzle](http://www.canlimacizle30.one) | Taraftar yorumlarıyla        |
-| **İnat TV**         | [İzle](http://www.nazifspor34.site)       | Alternatif yayın             |
+| **İnat TV**         | [İzle](http://izle.nazifspor34.site)       | Alternatif yayın             |
 
 ---
 
